@@ -1,0 +1,14 @@
+﻿# Entornos virtuales y credenciales
+venv/
+env/
+.env
+
+# Caché de Python y Pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# Logs y volúmenes de Docker locales
+*.log
+pgdata/
